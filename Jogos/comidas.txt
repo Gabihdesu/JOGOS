@@ -1,0 +1,10 @@
+pizza
+macarrao
+arroz
+feijao
+hamburguer
+sushi
+salada
+chocolate
+sorvete
+batata

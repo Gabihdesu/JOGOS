@@ -1,0 +1,10 @@
+caneca
+livro
+relogio
+bola
+oculos
+mochila
+caderno
+lapis
+teclado
+garrafa
